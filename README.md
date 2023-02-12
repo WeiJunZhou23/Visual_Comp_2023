@@ -1,1 +1,2 @@
-# Visual_Comp_2023
+# Visual Competiton 2023 nyu
+
